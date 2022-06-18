@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "..\\Css Layout"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Css Layout"
+  }
+}
